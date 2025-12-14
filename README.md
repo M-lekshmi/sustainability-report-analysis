@@ -19,10 +19,4 @@ energy consumption, and sustainability KPIs.
 - ESG KPI trends
 - Data extraction from sustainability reports
 
-## Output
-- Structured ESG datasets (Excel)
-- Visual charts
-- Reproducible analysis notebook
 
-## Author
-Sreelekshmi
